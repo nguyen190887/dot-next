@@ -51,6 +51,7 @@ namespace DotNext
                     template: "{controller=Home}/{action=Index}/{id?}"
                 );
             });
+
         }
     }
 }
